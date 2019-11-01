@@ -1,4 +1,5 @@
 ## Time Please
+[![Build Status](https://travis-ci.org/naman1303/time-please.svg?branch=master)](https://travis-ci.org/naman1303/time-please) [![Coverage Status](https://coveralls.io/repos/github/naman1303/time-please/badge.svg?branch=master)](https://coveralls.io/github/naman1303/time-please?branch=master)
 
 A Node.js module that prints your current date and time.
 
