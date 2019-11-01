@@ -1,5 +1,5 @@
 ## Time Please
-[![Build Status](https://travis-ci.org/naman1303/time-please.svg?branch=master)](https://travis-ci.org/naman1303/time-please) [![Coverage Status](https://coveralls.io/repos/github/naman1303/time-please/badge.svg?branch=master)](https://coveralls.io/github/naman1303/time-please?branch=master)
+[![Build Status][build-status-image]][build-status-url] [![Coverage Status][coverage-image]][coverage-url] [![GitHub forks][github-fork-image]][github-fork-url] [![GitHub stars][github-star-image]][github-star-url] ![GitHub][github-license-url] ![GitHub All Releases][github-download-url] ![GitHub package.json version][github-version-url]
 
 A Node.js module that prints your current date and time.
 
@@ -24,3 +24,15 @@ You are more than welcome to contribute.
 
 ### Reference
 https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager/
+
+[build-status-image]: https://travis-ci.org/naman1303/time-please.svg?branch=master
+[build-status-url]: https://travis-ci.org/naman1303/time-please
+[coverage-image]: https://coveralls.io/repos/github/naman1303/time-please/badge.svg?branch=master
+[coverage-url]: https://coveralls.io/github/naman1303/time-please?branch=master
+[github-fork-image]: https://img.shields.io/github/forks/naman1303/time-please
+[github-fork-url]: https://github.com/naman1303/time-please/network
+[github-star-image]: https://img.shields.io/github/stars/naman1303/time-please?color=orange
+[github-star-url]: https://github.com/naman1303/time-please/stargazers
+[github-version-url]: https://img.shields.io/github/package-json/v/naman1303/time-please
+[github-download-url]: https://img.shields.io/github/downloads/naman1303/time-please/total
+[github-license-url]: https://img.shields.io/github/license/naman1303/time-please?color=orange
