@@ -1,5 +1,5 @@
 ## Time Please
-[![Build Status][build-status-image]][build-status-url] [![Coverage Status][coverage-image]][coverage-url] [![GitHub forks][github-fork-image]][github-fork-url] [![GitHub stars][github-star-image]][github-star-url] ![GitHub][github-license-url] ![GitHub All Releases][github-download-url] ![GitHub package.json version][github-version-url]
+[![Build Status][build-status-image]][build-status-url] [![Coverage Status][coverage-image]][coverage-url] [![GitHub forks][github-fork-image]][github-fork-url] [![GitHub stars][github-star-image]][github-star-url] [![GitHub][github-license-url]](LICENSE.md) ![GitHub All Releases][github-download-url] ![GitHub package.json version][github-version-url]
 
 A Node.js module that prints your current date and time.
 
