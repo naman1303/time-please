@@ -1,6 +1,6 @@
 {
   "name": "time-please",
-  "version": "1.0.8",
+  "version": "1.1.7",
   "description": "A NodeJS module which shows you current date and time on console",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "time-please": "./index.js"
   },
   "author": "Noopur Tiwari <naman1303@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
     "clear": "^0.1.0",
