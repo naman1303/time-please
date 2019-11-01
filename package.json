@@ -1,0 +1,23 @@
+{
+  "name": "time-please",
+  "version": "1.0.8",
+  "description": "A NodeJS module which shows you current date and time on console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "date"
+  ],
+  "bin": {
+    "time-please": "./index.js"
+  },
+  "author": "Noopur Tiwari <naman1303@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.2.4"
+  }
+}
