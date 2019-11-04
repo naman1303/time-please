@@ -10,7 +10,7 @@ npm install time-please --save
 Once the module is loaded, the console would show the output date and time. No variable assignment is needed.
 ```javascript
 require('time-please');
-```
+``` 
 ### Expected Output
 ![Expected Output](https://raw.githubusercontent.com/naman1303/images/master/time-please.PNG)
 
