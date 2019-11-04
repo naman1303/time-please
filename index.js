@@ -12,7 +12,8 @@ var chalk = require("chalk"),
     figlet = require("figlet");
 
 clear();
-console.log("\n"+chalk.white(figlet.textSync("Here is the time!", { horizontalLayout: "full" })));
 
 var currentTime = "Current date and time : " + new Date();
-console.log("\n"+currentTime+"\n");
+
+process.stdout.write("\n"+chalk.white(figlet.textSync("Here is the time!", { horizontalLayout: "full" })));
+process.stdout.write("\n"+currentTime+"\n");
