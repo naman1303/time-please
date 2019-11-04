@@ -20,7 +20,7 @@ You are more than welcome to contribute.
 ### Reference
 [reference-link][]
 
-[reference-link]: https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager
+[reference-link]: <https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager>
 [build-status-image]: https://travis-ci.org/naman1303/time-please.svg?branch=master
 [build-status-url]: https://travis-ci.org/naman1303/time-please
 [coverage-image]: https://coveralls.io/repos/github/naman1303/time-please/badge.svg?branch=master
