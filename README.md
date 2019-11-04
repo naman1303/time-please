@@ -3,24 +3,19 @@
 
 A Node.js module that prints your current date and time.
 
-
 ### Installation
 npm install time-please --save
-
 
 ### Usage
 ```
 var currentTime = require('time-please');
 console.log("Time is ", currentTime);
 ```
-
 ### Expected Output
 ![Expected Output](https://raw.githubusercontent.com/naman1303/images/master/time-please.PNG)
 
-
 ### Contribution
 You are more than welcome to contribute.
-
 
 ### Reference
 https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager/
@@ -35,4 +30,3 @@ https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager
 [github-star-url]: https://github.com/naman1303/time-please/stargazers
 [github-version-url]: https://img.shields.io/github/package-json/v/naman1303/time-please
 [github-download-url]: https://img.shields.io/github/downloads/naman1303/time-please/total
-[github-license-url]: https://img.shields.io/github/license/naman1303/time-please
