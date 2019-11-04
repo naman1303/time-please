@@ -18,9 +18,9 @@ require('time-please');
 You are more than welcome to contribute.
 
 ### Reference
-[Reference Link][]
+[reference-link][]
 [code-quality-url]: https://api.codacy.com/project/badge/Grade/676df203e94d44af94969d094073dac9)](https://www.codacy.com/manual/naman1303/time-please?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=naman1303/time-please&amp;utm_campaign=Badge_Grade
-[Reference Link]: <https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager>
+[reference-link]: <https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager>
 [build-status-image]: https://travis-ci.org/naman1303/time-please.svg?branch=master
 [build-status-url]: https://travis-ci.org/naman1303/time-please
 [coverage-image]: https://coveralls.io/repos/github/naman1303/time-please/badge.svg?branch=master
