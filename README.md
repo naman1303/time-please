@@ -7,9 +7,9 @@ A Node.js module that prints your current date and time.
 npm install time-please --save
 
 ### Usage
-```
-var currentTime = require('time-please');
-console.log("Time is ", currentTime);
+Once the module is loaded, the console would show the output date and time. No variable assignment is needed.
+```Javascript
+require('time-please');
 ```
 ### Expected Output
 ![Expected Output](https://raw.githubusercontent.com/naman1303/images/master/time-please.PNG)
@@ -18,7 +18,7 @@ console.log("Time is ", currentTime);
 You are more than welcome to contribute.
 
 ### Reference
-https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager/
+<https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager/>
 
 [build-status-image]: https://travis-ci.org/naman1303/time-please.svg?branch=master
 [build-status-url]: https://travis-ci.org/naman1303/time-please
