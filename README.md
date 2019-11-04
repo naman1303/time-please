@@ -18,7 +18,7 @@ require('time-please');
 You are more than welcome to contribute.
 
 ### Reference
-[https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager/]
+[https://www.techiediaries.com/getting-started-with-npm-or-nodejs-package-manager/][]
 
 [build-status-image]: https://travis-ci.org/naman1303/time-please.svg?branch=master
 [build-status-url]: https://travis-ci.org/naman1303/time-please
