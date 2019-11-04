@@ -1,5 +1,5 @@
 ## Time Please
-[![Build Status][build-status-image]][build-status-url][![Codacy Badge](https://api.codacy.com/project/badge/Grade/676df203e94d44af94969d094073dac9)](https://www.codacy.com/manual/naman1303/time-please?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=naman1303/time-please&amp;utm_campaign=Badge_Grade)[![Coverage Status][coverage-image]][coverage-url] [![GitHub forks][github-fork-image]][github-fork-url] [![GitHub stars][github-star-image]][github-star-url] ![GitHub](https://img.shields.io/github/license/naman1303/time-please) ![GitHub All Releases][github-download-url] ![GitHub package.json version][github-version-url]
+[![Build Status][build-status-image]][build-status-url][![Coverage Status][coverage-image]][coverage-url] [![GitHub forks][github-fork-image]][github-fork-url] [![GitHub stars][github-star-image]][github-star-url] ![GitHub](https://img.shields.io/github/license/naman1303/time-please) ![GitHub All Releases][github-download-url] ![GitHub package.json version][github-version-url]
 
 A Node.js module that prints your current date and time.
 
